@@ -1,0 +1,11 @@
+{
+    "name": "floware-uploader",
+    "script": "src/main.js",
+    "instances": "4",
+    "env": {
+      "NODE_ENV": "development"
+    },
+    "env_production" : {
+      "NODE_ENV": "production"
+    }
+  }
