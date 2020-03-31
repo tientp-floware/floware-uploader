@@ -1,6 +1,3 @@
-# Build and Run your image
-
-
 # Floware File Storing
 
 This's demo uploader and sync with object storage min.io
