@@ -5,7 +5,7 @@ Testing speed, stable
 
 ## Getting Started
 
-- Install docker or nodejs require verion 10 above.
+- Install docker or nodejs require version 10 above.
 
 Change bucket name
 
